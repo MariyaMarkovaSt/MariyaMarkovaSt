@@ -8,8 +8,7 @@ Hello, I'm **Mariya Markova**.
 
 📚 Currently pursuing a Master's degree.
 
-🔍 Passionate about data engineering, with a strong interest in building scalable data solutions and transforming data into actionable insights.
-
+🚀 I am expanding my expertise in Data Engineering through hands-on projects and continuous learning. My interests include designing data pipelines, building ETL processes, working with databases, and transforming raw data into reliable datasets for analytics and decision-making.
 
 <h2>🚀 &nbsp;Tools that i used</h2>
 <p align="left">
