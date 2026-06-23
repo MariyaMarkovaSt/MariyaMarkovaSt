@@ -1,4 +1,15 @@
-## Hello, everybody 👋
+## 👋 About Me
+
+Hello, I'm **Mariya Markova**.
+
+📊 Data Analyst with 2 years and 6 months of experience in the banking industry.
+
+🎓 Bachelor's degree from [Westminster International University in Tashkent (WIUT)](https://wiut.uz/).
+
+📚 Currently pursuing a Master's degree.
+
+🔍 Passionate about data engineering, with a strong interest in building scalable data solutions and transforming data into actionable insights.
+
 
 <h2>🚀 &nbsp;Tools that i used</h2>
 <p align="left">
