@@ -8,3 +8,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="45" height="45"/>
 </p>
+
+## 🌐 Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariya-markova) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:markova.mariya.st@gamil.com) 
