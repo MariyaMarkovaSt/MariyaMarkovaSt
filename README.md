@@ -15,7 +15,7 @@ Hello, I'm **Mariya Markova**.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=MariyaMarkovaSt&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=MariyaMarkovaSt&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MariyaMarkovaSt&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MariyaMarkovaSt&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://komarev.com/ghpvc/?username=MariyaMarkovaSt&color=blue)
 
 <h2>🚀 &nbsp;Technologies & Tools</h2>
