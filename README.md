@@ -10,6 +10,10 @@ Hello, I'm **Mariya Markova**.
 
 🔍 Passionate about data engineering, with a strong interest in building scalable data solutions and transforming data into actionable insights.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MariyaMarkovaSt&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MariyaMarkovaSt&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MariyaMarkovaSt&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <h2>🚀 &nbsp;Tools that i used</h2>
 <p align="left">
